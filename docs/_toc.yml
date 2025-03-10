@@ -9,8 +9,6 @@ options:
 
 chapters:
 - file: 01_images_are_numpy_arrays
-- file: 08_napari-assistant
-- file: 09_notebook_export
 - file: multichannel_analysis/readme
 - file: interactive_pixel_classification/readme
 - file: interactive_object_classification/readme
