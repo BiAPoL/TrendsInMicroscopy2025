@@ -23,7 +23,7 @@ Load the "human-mitosis" example dataset from the menu `File > Open Sample > nap
 
 ## Instance Segmentation in Napari
 
-We will first apply the [voronoi-otsu-labeling algorithm](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/20_image_segmentation/11_voronoi_otsu_labeling.html) (from [pyclesperanto](https://github.com/clEsperanto/pyclesperanto_prototype?tab=readme-ov-file#py-clesperanto) or [nsbatwm](https://github.com/haesleinhuepf/napari-segment-blobs-and-things-with-membranes/tree/main?tab=readme-ov-file#napari-segment-blobs-and-things-with-membranes-nsbatwm)) to segment our objects (nuclei). We can do that with through the [napari-Assistant plugin]() or via the Tools menu: `Tools > Segmentation / labeling > Voronoi-Otsu-labeling`
+We will first apply the [voronoi-otsu-labeling algorithm](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/20_image_segmentation/11_voronoi_otsu_labeling.html) (from [pyclesperanto](https://github.com/clEsperanto/pyclesperanto_prototype?tab=readme-ov-file#py-clesperanto) or [nsbatwm](https://github.com/haesleinhuepf/napari-segment-blobs-and-things-with-membranes/tree/main?tab=readme-ov-file#napari-segment-blobs-and-things-with-membranes-nsbatwm)) to segment our objects (nuclei). We can do that with through the [napari-Assistant plugin](https://github.com/haesleinhuepf/napari-assistant) or via the Tools menu: `Tools > Segmentation / labeling > Voronoi-Otsu-labeling`
 
 ![](ncp2.png)
 
